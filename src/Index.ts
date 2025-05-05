@@ -14,7 +14,7 @@ app.use(express.urlencoded({ extended: true }));
 
 
 app.get('/', (req: Request, res: Response) => {
-    res.send('Servidor raiz is on');
+    res.send('Servidor raiz is on :3');
 });
 
 

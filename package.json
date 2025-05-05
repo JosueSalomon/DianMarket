@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "start": "node dist/index.js",
-    "vercel-start": "npm run build && node dist/index.js",
-    "dev": "nodemon dist/index.js"
+    "start": "node dist/Index.js",
+    "vercel-start": "npm run build && node dist/Index.js",
+    "dev": "nodemon dist/Index.js"
   },
   "author": "gente cool",
   "license": "ISC",
